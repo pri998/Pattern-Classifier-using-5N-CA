@@ -3,6 +3,7 @@
 A novel machine learning classifier based on **2-state 5-neighborhood Cellular Automata (CA)** using **strictly single-length cycles** to perform pattern classification on real-world datasets.
 
 > 📍 **Presented at 4th Asian Symposium on Cellular Automata Technology (ASCAT) 2025**
+
 > 📍 **Selected for publication in Springer Nature** 
 
 ---
